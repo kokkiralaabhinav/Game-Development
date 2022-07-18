@@ -6,10 +6,9 @@ This is a simple project to create an application of game
 
 ## Features and Functionalities 😃
 
-- It is avery use full application, any one can know to BMI and may lead their life happy. 
-- Has collection of many people BMI we can estimate the how people are facing health problems now-a-days. 
-- User can be know He is healthy or not.
-- It will help the all Citizens to maintain their life healthy
+- It is avery use full application, to play a game.
+- User can be Enjoy to playing the game like space ship movement.
+- It will help the User to play the space ship game.
 
 
 ## About project description -
@@ -19,20 +18,19 @@ This is a simple project to create an application of game
 
 ## Screenshots -
 
+![Background](https://user-images.githubusercontent.com/108206047/179451395-d7e2ddb9-67ea-4dc1-9b0f-424a668b7bd4.jpg)
+-->image of back groung
+
+![image](https://user-images.githubusercontent.com/108206047/179451466-b0a55f03-4a0d-4477-85b8-17da571751df.png)
+-->image of space ship
 
 
 
 
 
-### How To  Calculate BMI-
+### How To play THe Game-
 
-- Body Mass Index is a simple calculation using a person's height and weight. The formula is BMI = kg/m2 where kg is a person's weight in kilograms and m2 is their height in metres squared.
-
-![image](https://user-images.githubusercontent.com/108206047/179449453-4279de77-808b-430c-9240-0affae676bda.png)
-
-![image](https://user-images.githubusercontent.com/108206047/179449476-17f436d0-4526-45c3-8aad-f6838d78f568.png)
-
-![image](https://user-images.githubusercontent.com/108206047/179449242-de984a17-1ec7-4854-8086-9b1a8c6a982e.png)
+- we can move the spaceship in the space as what directions we want to move by using up,down,left,right arrows.
 
 
 
