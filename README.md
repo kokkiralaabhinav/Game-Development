@@ -28,7 +28,7 @@ This is a simple project to create an application of game
 
 
 
-### How To play THe Game-
+### How To play The Game-
 
 - we can move the spaceship in the space as what directions we want to move by using up,down,left,right arrows.
 
